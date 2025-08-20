@@ -155,7 +155,7 @@ function SectionContact() {
         boxShadow: 'none',
         padding: 0
       }}>
-        <a href="mailto:you@email.com" style={{
+        <a href="mailto:anishk5405@gmail.com" style={{
           display: 'flex', flexDirection: 'column', alignItems: 'center', textDecoration: 'none', minWidth: 140,
           transition: 'transform 0.18s', borderRadius: 18, border: 'none', background: 'none', padding: 0,
         }} onMouseOver={e => {e.currentTarget.style.transform='scale(1.07)';}} onMouseOut={e => {e.currentTarget.style.transform='none';}}>
